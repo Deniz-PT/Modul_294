@@ -1,0 +1,12 @@
+body {
+    background-color: limegreen;
+}
+
+.Titel {
+    color: white;
+}
+
+.container {
+   display: flex;
+    justify-content: center;
+}
